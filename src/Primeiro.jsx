@@ -7,7 +7,7 @@ const Primeiro = () => {
 
     const images = [
         {
-          src: '/build/imagens/casaazul.png',
+          src: 'https://felipe-filgueiras.github.io/Ap2React/imagens/casaazul.png',
           description: 'O Edifício que inspirou a série Detetives do Prédio Azul, do canal Gloob, também foi o lar de Ana Maria Teixeira de Carvalho, a eterna musa da bossa-nova e "Mulher de Branco" de Ipanema, que faleceu no último dia 3 de agosto, aos 75 anos. Há décadas ela circulava pelas ruas de Ipanema como a mais famosa e polêmica personalidade do bairro. Era filha do radialista e jornalista Luis de Carvalho e ex-mulher do compositor Marcos Valle, com quem ajudou a divulgar a bossa-nova pelo mundo. Ana Maria, há 16 anos, vendeu sua casa branca na Rua Joana Angélica, nº 207 e comprou um apartamento no térreo do prédio azul, onde vivia com uma acompanhante desde 2007.O nome verdadeiro do prédio azul é Fonseca e Silva, localizado na Rua Alberto de Campos, nº 217, em Ipanema.',
           endereco: "Rua Alberto de Campos, n 217, Ipanema",
           location: [-22.98120,-43.20449],
