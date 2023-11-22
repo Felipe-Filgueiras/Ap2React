@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Ap2React/static/css/main.7d72cf6d.css",
-    "main.js": "/Ap2React/static/js/main.8b89ecb4.js",
+    "main.js": "/Ap2React/static/js/main.73b85c52.js",
     "static/js/787.eedb116e.chunk.js": "/Ap2React/static/js/787.eedb116e.chunk.js",
     "static/media/logo.svg": "/Ap2React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Ap2React/index.html",
     "main.7d72cf6d.css.map": "/Ap2React/static/css/main.7d72cf6d.css.map",
-    "main.8b89ecb4.js.map": "/Ap2React/static/js/main.8b89ecb4.js.map",
+    "main.73b85c52.js.map": "/Ap2React/static/js/main.73b85c52.js.map",
     "787.eedb116e.chunk.js.map": "/Ap2React/static/js/787.eedb116e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d72cf6d.css",
-    "static/js/main.8b89ecb4.js"
+    "static/js/main.73b85c52.js"
   ]
 }
